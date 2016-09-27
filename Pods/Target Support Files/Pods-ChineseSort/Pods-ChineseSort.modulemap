@@ -1,0 +1,6 @@
+framework module Pods_ChineseSort {
+  umbrella header "Pods-ChineseSort-umbrella.h"
+
+  export *
+  module * { export * }
+}
